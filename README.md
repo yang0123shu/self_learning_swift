@@ -86,6 +86,14 @@ Complete, working apps you can build and customize:
 
 ## 🚀 Getting Started
 
+### Complete Beginner?
+👉 **Start here:** [Complete Beginner's Guide](GETTING-STARTED.md)
+- Setting up Xcode
+- Your first Swift program
+- Understanding Xcode interface
+- Common mistakes and solutions
+- Troubleshooting tips
+
 ### Prerequisites
 - **Mac** with macOS (required for Xcode)
 - **Xcode** 14.0 or later ([Download from Mac App Store](https://apps.apple.com/app/xcode/id497799835))
@@ -98,9 +106,11 @@ Complete, working apps you can build and customize:
    cd self_learning_swift
    ```
 
-2. Start with Swift Basics if you're new to Swift
-3. Move on to SwiftUI Basics once comfortable with Swift
-4. Build the example projects to practice
+2. **New to programming?** Read the [Getting Started Guide](GETTING-STARTED.md) first
+3. Start with Swift Basics if you're new to Swift
+4. Move on to SwiftUI Basics once comfortable with Swift
+5. Build the example projects to practice
+6. Keep the [Quick Reference Guide](QUICK-REFERENCE.md) handy
 
 ### Learning Path
 
@@ -175,6 +185,13 @@ By the end of this tutorial, you'll be able to build iOS apps with:
 - [ ] Build complete, working apps
 
 ## 📖 Additional Resources
+
+### In This Repository
+- 📘 [Complete Beginner's Guide](GETTING-STARTED.md) - Start here if you're brand new
+- 📕 [Quick Reference Guide](QUICK-REFERENCE.md) - Handy syntax reference
+- 📗 Swift Basics Tutorials - 5 comprehensive lessons
+- 📙 SwiftUI Basics Tutorials - 3 hands-on lessons
+- 📓 Example Projects - 3 complete, working apps
 
 ### Official Documentation
 - [Swift.org](https://swift.org/documentation/)
